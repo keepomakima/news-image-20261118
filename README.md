@@ -1,8 +1,16 @@
-# 18 November 2026 — The World in One Day
+# news-image-20261118
 
-One image that sums up the world's news of Wednesday, 18 November 2026,
-as a newspaper front page. Entry for the make.fun competition
-`news-image-20261118`.
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/keepomakima/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/keepomakima/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+One image that sums up the world's news of Wednesday, 18 November 2026, as a newspaper front page. Entry for the make.fun competition `news-image-20261118`.
+
+## Run it
+
+```sh
+python3 main.py
+```
 
 ## The image
 
@@ -33,3 +41,7 @@ the page happened or was first reported on 18 November 2026.
 The front page was composed with `build_frontpage.py` (Pillow) from seven
 generated panel photos. The build script lives in the coordinator's workspace,
 not in this repo; the repo holds only the program and the image it ships.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dy7a168m&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
